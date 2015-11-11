@@ -3,8 +3,8 @@
 Here I want to make table of contents
 ## Table of contents
 
-[Contents](#Contents)
-[Contents B.1](#Contents-b1)
+[Contents](#contents)
+[Content B.1](#content-b1)
 
 ## Contents
 
