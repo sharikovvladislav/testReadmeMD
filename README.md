@@ -1,6 +1,9 @@
 # testReadmeMD
 
 Here I want to make table of contents
+## Table of contents
+
+[Contents](#Contents)
 
 ## Contents
 
